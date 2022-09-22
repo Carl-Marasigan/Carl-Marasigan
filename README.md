@@ -1,8 +1,5 @@
-<img alt="Hey" src="assests/Hand-Wave.gif" width='65' align="left"/><h1>Hey there! Carl Joseph Marasigan src=https://komarev.com/ghpvc/?username=Carl-Marasigan align="right" alt=Carl Narasigan/></h1>
-<h3 align="center"><i>A  Machine Learning and Computer Vision Enthusiast, Web Developer and Software Developer from India </i><
 
 <br>
-
 ### &nbsp;About:&nbsp; 👨‍💻
 - **Motto of my life:** &nbsp; Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
 - I'm a graduate student from *National University Laguna* (Batch - 2022) 
@@ -20,35 +17,6 @@
 
 ---
     
-    
-<h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
-<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sCarl-Marasigan8&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=Carl-Marasigan&show_icons=true&layout=compact&langs_count=8&theme=algolia alt=shantanugupta1118 />
-
-<!-- <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">&nbsp;Connect with me:</h3>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://shantanugupta1118.github.io/sg/" target="blank"><img align="center" src="https://img.icons8.com/nolan/126/domain.png" alt="shantanugupta1118" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/shantanug1118" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/50/000000/twitter.png" alt="shantanugupta1118" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shang1118" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="shantanugupta1118" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/shang1118" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="shantanugupta1118" height="35" width="35" /></a>
-</p>
- -->
- 
- ---
- ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="Carl" height="22px" src="./assests/Web.png" />][website]
-[<img align="left" alt="Carl| LinkedIn" height="22px" src="./assests/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Carl | Twitter" height="22px" src="./assests/Twitter.png" />][twitter]
-[<img align="left" alt="Carl| Facebook" height="22px" src="./assests/Facebook.png" />][facebook]
-[<img align="left" alt="Carl | Instagram" height="22px" src="./assests/Instagram.png" />][instagram]
-
-- 📫 How to reach me ...
-[website]: 
-[linkedin]: 
-[gmail]: mailto:marasigancarljoseph@gmail.com
-[twitter]: 
-[facebook]: 
-[instagram]: 
 
 
 
