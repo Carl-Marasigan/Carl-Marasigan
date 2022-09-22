@@ -34,7 +34,7 @@
 
 
 <h3 align="left">&nbsp;GitHub Stats:&nbsp; ⚙️ </h3>
-
+<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carl-Marasigan&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=Carl-Marasigan&show_icons=true&layout=compact&langs_count=8&theme=algolia />
 
 
 
