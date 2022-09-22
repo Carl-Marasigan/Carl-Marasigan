@@ -22,6 +22,11 @@
 <img align="left" alt="Carl | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br />
 
+<h3 align="left">&nbsp;Web Development Frameworks:&nbsp; 🛠 </h3>
+<img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+
+
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
