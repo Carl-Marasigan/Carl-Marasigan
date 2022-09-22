@@ -2,8 +2,8 @@
     also known as Carl
 ### 📖 I’m Currently Learning:
     Web Development and Software Development
-### 🔭 I’m Looking to Expand my Knowleddge on:
-    Computer Vision and Machine Learning
+### 🔭 I’m Looking to Expand my Knowledge on:
+    Computer Vision, Data Science and Machine Learning
     
 ### 👨‍💻 &nbsp;About:&nbsp; 
 - **Motto of my life:** &nbsp;Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
