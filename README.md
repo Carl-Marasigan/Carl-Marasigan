@@ -22,9 +22,8 @@
 <img align="left" alt="Carl | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br />
 
-<h3 align="left">&nbsp;Web Development Frameworks:&nbsp; 🛠 </h3>
-<img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+
+
 
 
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
@@ -36,7 +35,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 
 <h3 align="left">&nbsp;GitHub Stats:&nbsp; ⚙️ </h3>
 <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carl-Marasigan&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=Carl-Marasigan&show_icons=true&layout=compact&langs_count=8&theme=algolia />
