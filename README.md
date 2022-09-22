@@ -36,8 +36,7 @@
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 
-
-<h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
+<h3 align="left">&nbsp;&nbsp;GitHub Stats:&nbsp; ⚙️ </h3>
 <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carl-Marasigan&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" />
 
 
