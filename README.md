@@ -4,22 +4,6 @@
      Web Development and Software Development
 ### 🔭 I’m Looking to Expand my Knowleddge on:
     Computer Vision and Machine Learning
- 
-### 📫 How to Reach Me:
-[<img align="left" alt="Carl | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Carl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Carl | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Carl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Carl | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<br />
-
-
-
-
-
-
-
-<br>
 
 - Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
 
@@ -28,6 +12,14 @@
 - I mostly preferred Web Development and Software Developmebt field where I can utilize my skills and creativity to solve real life problems.
 
 - You can notif me on my email at marasigancarljosephp@gmail.com! I'll try to respond as soon as I can.
+ 
+### 📫 How to Reach Me:
+[<img align="left" alt="Carl | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Carl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Carl | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Carl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Carl | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<br />
 
 👀 I’m interested in ...
 <h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
