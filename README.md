@@ -5,7 +5,7 @@
 ### 🔭 I’m Looking to Expand my Knowleddge on:
     Computer Vision and Machine Learning
     
-### &nbsp;About:&nbsp; 👨‍💻
+### 👨‍💻 &nbsp;About:&nbsp; 
 - **Motto of my life:** &nbsp;Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
 
 - I'm a graduate student from *National University Laguna* (Batch - 2022) 
@@ -23,10 +23,7 @@
 <br />
 
 
-
-
-
-<h3 align="left">&nbsp;Languages and Tools:&nbsp; 🛠 </h3>
+<h3 align="left">&nbsp;🛠 Languages and Tools:&nbsp; </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -38,7 +35,7 @@
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 
-<h3 align="left">&nbsp;GitHub Stats:&nbsp; ⚙️ </h3>
+<h3 align="left">&nbsp;⚙️ GitHub Stats:&nbsp;  </h3>
 <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carl-Marasigan&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=Carl-Marasigan&show_icons=true&layout=compact&langs_count=8&theme=algolia />
 
 
