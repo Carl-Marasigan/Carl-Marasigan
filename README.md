@@ -1,7 +1,7 @@
 ### 👋🏻 Hi there, I'm Carl Joseph Marasigan
     also known as Carl
 ### 📖 I’m Currently Learning:
-     Web Development and Software Development
+    Web Development and Software Development
 ### 🔭 I’m Looking to Expand my Knowleddge on:
     Computer Vision and Machine Learning
     
