@@ -1,6 +1,5 @@
 
 <br>
-### &nbsp;About:&nbsp; 👨‍💻
 - **Motto of my life:** &nbsp; Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
 - I'm a graduate student from *National University Laguna* (Batch - 2022) 
 - I mostly preferred Web Development and Software Developmebt field where I can utilize my skills and creativity to solve real life problems.
