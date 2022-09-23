@@ -32,10 +32,12 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+<h3 align="left">&nbsp; 🛠 Web Developmet Frameworks;  </h3>
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-
-<h3 align="left">&nbsp;⚙️ GitHub Stats:&nbsp;  </h3>
+<img align="left" alt="Django" width="26px" src="https://www.google.com.ph/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-dylfo&psig=AOvVaw3Vq4HRo8TtBXxJBUZjDoxO&ust=1664025488805000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiRnZeAq_oCFQAAAAAdAAAAABAD" />
 
 
 <h3 align="left">&nbsp;⚙️ GitHub Stats:&nbsp;  </h3>
