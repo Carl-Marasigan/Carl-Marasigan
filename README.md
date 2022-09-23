@@ -37,7 +37,7 @@
 <h3 align="left">&nbsp; 🛠 Web Developmet Frameworks;  </h3>
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img align="left" alt="Django" width="26px" src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label.png" />
+
 
 
 <h3 align="left">&nbsp;⚙️ GitHub Stats:&nbsp;  </h3>
