@@ -26,8 +26,8 @@
 <h3 align="left">&nbsp;🛠 Languages and Tools:&nbsp; </h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -38,6 +38,7 @@
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+<img align="left" alt="PHP" width="26px" src="https://e7.pngegg.com/pngimages/78/907/png-clipart-logo-php-mysql-computer-icons-workforce-development-logos-blue-web-design.png" />
 
 
 
