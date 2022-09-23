@@ -1,18 +1,18 @@
 ### 👋🏻 Hi there, I'm Carl Joseph Marasigan
-    also known as Carl
+        You can call me Carl!
 ### 📖 I’m Currently Learning:
     Web Development and Software Development
 ### 🔭 I’m Looking to Expand my Knowledge on:
     Computer Vision, Data Science and Machine Learning
     
 ### 👨‍💻 &nbsp;About:&nbsp; 
-- **Motto of my life:** &nbsp;Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
+     - **Motto of my life:** &nbsp;Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
 
-- I'm a graduate student from *National University Laguna* (Batch - 2022) 
+    - I'm a graduate student from *National University Laguna* (Batch - 2022) 
 
-- I mostly preferred Web Development and Software Developmebt field where I can utilize my skills and creativity to solve real life problems.
+    - I mostly preferred Web Development and Software Developmebt field where I can utilize my skills and creativity to solve real life problems.
 
-- You can notif me on my email at marasigancarljoseph@gmail.com! I'll try to respond as soon as I can.
+    - You can notif me on my email at marasigancarljoseph@gmail.com! I'll try to respond as soon as I can.
  
 ### 📫 How to Reach Me:
 <img align="left" alt="Carl | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -34,6 +34,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+
+<h3 align="left">&nbsp;⚙️ GitHub Stats:&nbsp;  </h3>
+
 
 <h3 align="left">&nbsp;⚙️ GitHub Stats:&nbsp;  </h3>
 <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carl-Marasigan&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=Carl-Marasigan&show_icons=true&layout=compact&langs_count=8&theme=algolia />
