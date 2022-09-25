@@ -4,9 +4,11 @@
     Web Development and Software Development
 ### 🔭 I’m Looking to Expand my Knowledge on:
     Machine Learning and Computer Vision
+ ### 📖
+     Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
     
 ### 👨‍💻 &nbsp;About:&nbsp; 
-     - **Motto of my life:** &nbsp;Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
+    Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
 
     - I'm a graduate student from *National University Laguna* (Batch - 2022) 
 
@@ -27,7 +29,7 @@
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" alt="CSS3" width="26px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
