@@ -41,6 +41,7 @@
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="PHP" width="26px" src="https://e7.pngegg.com/pngimages/78/907/png-clipart-logo-php-mysql-computer-icons-workforce-development-logos-blue-web-design.png" />
+<img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
 
 
 
