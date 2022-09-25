@@ -8,7 +8,7 @@
      Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
     
 ### 👨‍💻 &nbsp;About:&nbsp; 
-    Programming is a skill best acquired by practice and examples rather from books - "Allan Turing" 
+    
 
     - I'm a graduate student from *National University Laguna* (Batch - 2022) 
 
