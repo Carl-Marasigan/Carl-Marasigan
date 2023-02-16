@@ -12,7 +12,7 @@
 
     - I'm a graduate student from *National University Laguna* (Batch - 2022) 
 
-    - I mostly preferred Web Development and Software Developmebt field where I can utilize my skills and creativity to solve real life problems.
+    - I mostly preferred Web Development and Software Development field where I can utilize my skills and creativity to solve real life problems.
 
     - You can notif me on my email at marasigancarljoseph@gmail.com! I'll try to respond as soon as I can.
  
